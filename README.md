@@ -18,6 +18,4 @@ We will use the following tools and libraries throughout the project:
 - **R**: Programming language
 - **tidyverse**: For data manipulation and visualization
 - **ggplot2**: For data visualization
-- **dplyr**: For data manipulation
-- **caret**: For machine learning
-- **RMarkdown**: For creating reproducible reports
+- **Quarto**: For creating reproducible reports
